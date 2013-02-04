@@ -1,0 +1,84 @@
+Agatha Christie	1
+Alan Bleasdale	1
+Albert Camus	1
+Albert Einstein	1
+Amos Bronson Alcott	2
+Anatole France	1
+Andre Maurois	1
+Aristotle	1
+Bette Davis	1
+Bette Midler	1
+Beverly Sills	1
+Bill Cosby	2
+Bill Vaughn	13
+Bob Hope	3
+Bob Wells	1
+Brigitte Bardot	1
+C. H. (Charles Haddon) Spurgeon	1
+C. S. Lewis	1
+Calista Flockhart	1
+Carl Gustav Jung	1
+Casey Stengel	1
+Cato	1
+Charles de Gaulle	1
+Cyril Connolly	1
+Don Marquis	1
+Doris Day	2
+Dorothy Canfield Fisher	1
+Dwight L. Moody	1
+Edith Wharton	2
+Eleanor Roosevelt	1
+Emily Dickinson	1
+Euripides	1
+Fay Weldon	1
+Francis Bacon	1
+Frank A. Clark	1
+Franklin P. Adams	1
+Friedrich Nietzsche	1
+Gene Fowler	1
+George Bernard Shaw	1
+George Burns	1
+Golda Meir	1
+Harold Coffin	1
+Harrison Ford	1
+Henri Frederic Amiel	1
+Henry David Thoreau	1
+Henry Ford	1
+Ira Gershwin	1
+J. B. Priestley	1
+James Thurber	1
+Jim Fiebig	1
+Joan Collins	1
+John B. Priestly	1
+Judith Viorst	1
+Jules Feiffer	2
+Knut Hamsun	1
+Kurt Vonnegut	1
+Lauren Bacall	1
+Leo Rosten	1
+Leon Edel	1
+Liv Tyler	1
+Louis Kronenberger	1
+Marcus Tullius Cicero	2
+Margaret Mead	1
+Martin Buxbaum	1
+Mary Schmich	1
+Maurice Chevalier	1
+Mignon McLaughlin	1
+Muriel Spark	1
+Oscar Wilde	1
+Pablo Picasso	1
+Pearl S. Buck	1
+Pope Paul VI	1
+Rabindranath Tagore	1
+Ralph Waldo Emerson	1
+Robert Browning	1
+Sam Ewing	1
+Satchel Paige	1
+Sinclair Lewis	1
+Sir Walter Scott	1
+Stanislaw Lec	1
+Theodore Roosevelt	1
+Thomas Wolfe	1
+Tom Stoppard	1
+Victor Hugo	1
