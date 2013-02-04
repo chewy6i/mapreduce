@@ -2,6 +2,10 @@ MapReduce tasks to process quotes
 ====================================
 * Checking in the 3 job types plus the experimental 4th type.
 * Testing folder contains quotes.txt, Authors.txt, words.txt and Authorwords.txt
+* Project built using Eclipse (Juno) and JDK 1.6.0_37 with Maven
+Note: Fix the JDK path to fix any pom.xml error complaining of missing tools.jar
+* Hadoop 1.1.1 used to build and test the code which is > 0.20
+* Uses MRv1 
 
 #1 AuthorQuotes.java
 this is the main class which invokes the various jobs
